@@ -1,2 +1,2 @@
 # Code_Repository_Python
-All python codes for future references
+This repository gives good understanding on basics of python with example programming questions & answers
